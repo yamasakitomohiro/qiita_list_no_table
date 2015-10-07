@@ -1,0 +1,39 @@
+### Swift dependencies file v0 ###
+provides:
+- "WebViewController"
+nominals:
+- "C10PerfectMVC17WebViewController"
+class-members:
+- "_url"
+- "viewDidLoad"
+top-level:
+- "UIViewController"
+- "NSCoder"
+- !private "NSURL"
+- !private "NSURLRequest"
+- !private "StringLiteralType"
+- !private "UIWebView"
+- "String"
+- !private "fatalError"
+member-access:
+- !private "CSo12NSURLRequest"
+- "C10PerfectMVC17WebViewController"
+- !private "CSo5NSURL"
+- !private "CSo6UIView"
+- !private "CSo9UIWebView"
+- "CSo11UIResponder"
+- !private "VSs12StaticString"
+- "CSo8NSObject"
+- "PSs9AnyObject"
+- "CSo16UIViewController"
+dynamic-lookup:
+cross-module:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/Security.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/32/CoreImage.swiftmodule"

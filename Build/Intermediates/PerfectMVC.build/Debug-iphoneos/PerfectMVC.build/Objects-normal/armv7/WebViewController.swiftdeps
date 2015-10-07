@@ -1,0 +1,39 @@
+### Swift dependencies file v0 ###
+provides:
+- "WebViewController"
+nominals:
+- "C10PerfectMVC17WebViewController"
+class-members:
+- "_url"
+- "viewDidLoad"
+top-level:
+- "UIViewController"
+- !private "NSURL"
+- !private "NSURLRequest"
+- "NSCoder"
+- !private "StringLiteralType"
+- !private "UIWebView"
+- "String"
+- !private "fatalError"
+member-access:
+- !private "VSs12StaticString"
+- !private "CSo12NSURLRequest"
+- "CSo11UIResponder"
+- "PSs9AnyObject"
+- "C10PerfectMVC17WebViewController"
+- !private "CSo6UIView"
+- !private "CSo9UIWebView"
+- "CSo8NSObject"
+- !private "CSo5NSURL"
+- "CSo16UIViewController"
+dynamic-lookup:
+cross-module:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/Security.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/CoreImage.swiftmodule"
